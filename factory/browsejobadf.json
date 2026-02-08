@@ -1,0 +1,9 @@
+{
+	"name": "browsejobadf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f2204464-42b8-4772-96e4-fbc759925b29",
+		"tenantId": "46797d7a-f674-467e-aa6e-6fceb6c9cff4"
+	}
+}
